@@ -16,7 +16,7 @@
     <author href="http://www.worcester.ac.uk/discover/chris-bowers.html" email="c.bowers@worc.ac.uk">
         Chris P. Bowers
     </author>
-	
+	<preference name="phonegap-version" value="cli-7.0.1" />
 	
 	
 	<!-- required plugins go here -->
